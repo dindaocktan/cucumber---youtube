@@ -8,4 +8,3 @@ Feature: To Login  in youtube music
     And   I'm see warning
 #    Then  I'm enter my password into the text field
 #    Then  I'm click the next button
-#    Then account amazon logged
